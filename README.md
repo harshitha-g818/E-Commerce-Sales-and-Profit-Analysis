@@ -1,7 +1,6 @@
 # E-Commerce-Sales-Analysis
-# E-commerce Sales Analysis
 
-#Overview
+Overview
 This project is a data analytics and data science initiative focused on analyzing e-commerce store sales. The goal is to gain insights into sales trends, profitability, and customer segments using data-driven methods.
 
 # Features
