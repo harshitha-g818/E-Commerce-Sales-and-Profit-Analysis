@@ -1,0 +1,49 @@
+# E-Commerce-Sales-Analysis
+# E-commerce Sales Analysis
+
+#Overview
+This project is a data analytics and data science initiative focused on analyzing e-commerce store sales. The goal is to gain insights into sales trends, profitability, and customer segments using data-driven methods.
+
+# Features
+- **Monthly Sales Calculation**: Analyzes sales performance on a month-to-month basis.
+- **Sales Analysis by Product Category and Sub-category**: Provides insights into the best and worst-performing categories.
+- **Profit Analysis**: Examines profit trends by month, category, and sub-category.
+- **Customer Segment Analysis**: Identifies key customer segments and their purchasing behaviors.
+- **Sales to Profit Ratio Analysis**: Evaluates the efficiency of sales in generating profit.
+
+# Technologies Used
+- Python
+- Pandas
+- NumPy
+- Plotly (for visualization)
+- Jupyter Notebook
+
+# Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/ecommerce-sales-analysis.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd ecommerce-sales-analysis
+   ```
+3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. Open the Jupyter Notebook:
+   ```bash
+   jupyter notebook
+   ```
+
+# Usage
+- Open `E_commerce Project.ipynb` in Jupyter Notebook.
+- Run the cells sequentially to perform the sales analysis.
+- Modify parameters as needed to explore different aspects of the data.
+
+# Contributing
+Contributions are welcome! Feel free to fork the repository and submit a pull request with improvements or additional analyses.
+
+## License
+This project is licensed under the Harshitha Gade.
+
